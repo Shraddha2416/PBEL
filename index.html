@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Inkspire – Discover Your Next Favorite Book</title>
+  <link rel="stylesheet" href="style.css"/>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Inter&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="hero">
+    <div class="hero-content">
+      <h1>📖 Inkspire</h1>
+      <p>✨ Where every story whispers to your soul ✨</p>
+      <a href="#chat" class="cta-button">Start Chatting</a>
+    </div>
+  </header>
+
+  <section class="features">
+    <h2>Why Inkspire?</h2>
+    <div class="cards">
+      <div class="card">
+        <h3>📚 By Genre</h3>
+        <p>Explore fantasy, romance, thrillers, and more – perfectly matched to your taste.</p>
+      </div>
+      <div class="card">
+        <h3>🌈 By Mood</h3>
+        <p>Feeling happy, introspective, or adventurous? Let your emotions guide your read.</p>
+      </div>
+      <div class="card">
+        <h3>👩‍💼 By Author</h3>
+        <p>Search by your favorite authors like Colleen Hoover, Murakami, or Chetan Bhagat.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="chat-launch" id="chat">
+    <h2>💬 Talk to Inkspire</h2>
+    <p>Your personal book assistant is just a message away!</p>
+    <button id="chat-toggle">Open Chat</button>
+  </section>
+
+  <footer>
+    <p>✨ Built with love for book lovers | © 2025 Inkspire</p>
+  </footer>
+
+  <!-- Floating Chatbot Widget -->
+  <div id="chat-widget">
+    <iframe src="https://your-watson-chatbot-url" width="350" height="500" frameborder="0"></iframe>
+    <button id="chat-close">×</button>
+  </div>
+
+  <script>
+    const chatToggle = document.getElementById('chat-toggle');
+    const chatWidget = document.getElementById('chat-widget');
+    const chatClose = document.getElementById('chat-close');
+
+    chatToggle.addEventListener('click', () => {
+      chatWidget.style.display = 'block';
+    });
+
+    chatClose.addEventListener('click', () => {
+      chatWidget.style.display = 'none';
+    });
+  </script>
+<script>
+  window.watsonAssistantChatOptions = {
+    integrationID: "f0720bdc-d40b-47c7-a784-ad69760872ce", // The ID of this integration.
+    region: "au-syd", // The region your integration is hosted in.
+    serviceInstanceID: "35dc1eec-3a17-4ca9-91a4-4e6553f8d57e", // The ID of your service instance.
+    onLoad: async (instance) => { await instance.render(); }
+  };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+    document.head.appendChild(t);
+  });
+</script>
+</body>
+</html>

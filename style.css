@@ -1,0 +1,130 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  background: #fdfcf9;
+  color: #333;
+}
+
+.hero {
+  background: linear-gradient(120deg, #fef6f9, #edf4ff);
+  padding: 100px 20px;
+  text-align: center;
+  border-bottom: 2px solid #f0f0f0;
+}
+
+.hero-content h1 {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  color: #e86a92;
+  margin: 0;
+}
+
+.hero-content p {
+  font-size: 1.2rem;
+  margin: 10px 0 30px;
+  color: #444;
+}
+
+.cta-button {
+  background-color: #e86a92;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+
+.cta-button:hover {
+  background-color: #d0557d;
+}
+
+.features {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.features h2 {
+  font-size: 2rem;
+  margin-bottom: 40px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+}
+
+.card {
+  background-color: #ffffff;
+  padding: 25px;
+  border-radius: 15px;
+  width: 280px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.05);
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h3 {
+  color: #e86a92;
+}
+
+.chat-launch {
+  background-color: #f0f8ff;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.chat-launch button {
+  background-color: #e86a92;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 25px;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.chat-launch button:hover {
+  background-color: #cf4d74;
+}
+
+#chat-widget {
+  position: fixed;
+  bottom: 80px;
+  right: 30px;
+  display: none;
+  z-index: 1000;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+#chat-close {
+  position: absolute;
+  top: -15px;
+  right: -15px;
+  background: #e86a92;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+footer {
+  background-color: #2e2e2e;
+  color: #eee;
+  padding: 20px;
+  text-align: center;
+}
