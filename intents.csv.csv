@@ -1,0 +1,249 @@
+Hit me with a book suggestion,bookrecommendation
+Looking for my next read,bookrecommendation
+What are you reading these days?,bookrecommendation
+Recommend something interesting,bookrecommendation
+I need reading suggestions,bookrecommendation
+What's a good book to read?,bookrecommendation
+Any book recommendations?,bookrecommendation
+Suggest me a novel,bookrecommendation
+I want to read something new,bookrecommendation
+What book do you recommend?,bookrecommendation
+I need a new book to read,bookrecommendation
+Give me a book recommendation,bookrecommendation
+I'm looking for something to read,bookrecommendation
+Help me pick a book,bookrecommendation
+I'm open to any book suggestions,bookrecommendation
+Find me a book,bookrecommendation
+What should I read next?,bookrecommendation
+What would you recommend reading?,bookrecommendation
+Can you recommend a novel?,bookrecommendation
+I need a book idea,bookrecommendation
+Give me a reading recommendation,bookrecommendation
+What books do you suggest?,bookrecommendation
+"I'm bored, suggest a book",bookrecommendation
+Suggest a great book,bookrecommendation
+Can you suggest a good book?,bookrecommendation
+genre,bookrecommendation
+surprise_me,genre
+Exit,Goodbye
+Goodbye!,Goodbye
+Bye!,Goodbye
+See you later!,Goodbye
+I’m done for now,Goodbye
+Talk later,Goodbye
+That’s all,Goodbye
+"Bye, bot!",Goodbye
+Thank you!,Gratitude
+Thanks!,Gratitude
+"That's awesome, thanks!",Gratitude
+"Cool, thanks!",Gratitude
+Thank you so much!,Gratitude
+Thanks a ton!,Gratitude
+I appreciate it!,Gratitude
+Gracias!,Gratitude
+Hi can you help me find a book?,Greeting
+Good morning can you recommend a book?,Greeting
+Howdy,Greeting
+Hello can you suggest a novel?,Greeting
+Hey there suggest me something to read,Greeting
+Evening,Greeting
+Hey got any book suggestions?,Greeting
+Hello what books do you recommend?,Greeting
+Good evening,Greeting
+Hello what do you recommend reading?,Greeting
+Hi I want to read something new,Greeting
+Hello I'm looking for book suggestions,Greeting
+Hey what books are popular now?,Greeting
+Hi I need help choosing a book,Greeting
+Hi I need book recommendations,Greeting
+Hey can you suggest a good book?,Greeting
+Afternoon,Greeting
+Greetings,Greeting
+Morning,Greeting
+Good morning,Greeting
+Hey there,Greeting
+Hiya,Greeting
+Hey,Greeting
+Hello there,Greeting
+Hi there,Greeting
+How do you do?,Greeting
+Good day,Greeting
+Hi,Greeting
+Ahoy,Greeting
+Good afternoon,Greeting
+Hello,Greeting
+How's it going?,Greeting
+How are you?,Greeting
+Yo,Greeting
+Sup?,Greeting
+What's up?,Greeting
+Hey can you suggest something?,Greeting
+Hello what's a good book to read?,Greeting
+Hi recommend me a book please,Greeting
+Hey find me something interesting to read,Greeting
+Hello can you pick a book for me?,Greeting
+Hello can you help me decide what to read?,Greeting
+Hi got any good book recommendations?,Greeting
+Hi I'm in the mood for a good book,Greeting
+Hey what should I read next?,Greeting
+surprise_me,mood
+author,Recommendations
+mood,Recommendations
+reading level,Recommendations
+genre,Recommendations
+Suggest a book by Gurcharan Das,recommend_by_author
+Whats a good novel by Madhuri Vijay,recommend_by_author
+Recommend me a book by Jeet Thayil,recommend_by_author
+Suggest a family saga by Vikram Chandra,recommend_by_author
+What should I try from Shobhaa De,recommend_by_author
+Recommend me a funny book by Twinkle Khanna,recommend_by_author
+Suggest a powerful book by Rohinton Mistry,recommend_by_author
+Suggest a novel by Savi Sharma,recommend_by_author
+Recommend me a book by Sudeep Nagarkar,recommend_by_author
+Whats a good collection by Khushwant Singh,recommend_by_author
+Recommend me a science book by Sanjeev Sanyal,recommend_by_author
+What should I read next from Patrick Rothfuss,recommend_by_author
+Whats popular by James Patterson,recommend_by_author
+Suggest a book by Jerry Pinto,recommend_by_author
+Suggest a modern classic by V S Naipaul,recommend_by_author
+Suggest me a Dan Brown,recommend_by_author
+Recommend a good Haruki Murakami,recommend_by_author
+Books similar to Paulo Coelho,recommend_by_author
+Recommend me a short story collection by Ruskin Bond,recommend_by_author
+Suggest a mythology book by Amish Tripathi,recommend_by_author
+What should I read from Neil Gaiman,recommend_by_author
+Whats a lesser known book by Anita Desai,recommend_by_author
+Recommend me a thought provoking book by Aravind Adiga,recommend_by_author
+Suggest a fantasy novel by V E Schwab,recommend_by_author
+Recommend me a coming of age novel by R K Narayan,recommend_by_author
+Recommend me a classic by Jane Austen,recommend_by_author
+Whats a must read from George Orwell,recommend_by_author
+What should I read from Perumal Murugan,recommend_by_author
+Suggest something by Toni Morrison,recommend_by_author
+Books by Stephen King,recommend_by_author
+Suggest a light read by Preeti Shenoy,recommend_by_author
+Recommend me a thriller by Gillian Flynn,recommend_by_author
+What would you pick from Brandon Sanderson,recommend_by_author
+Suggest a science fiction novel by Isaac Asimov,recommend_by_author
+Recommend me a contemporary book by Manu Joseph,recommend_by_author
+Suggest a poetry collection by Rabindranath Tagore,recommend_by_author
+Recommend me a psychological thriller by Blake Crouch,recommend_by_author
+What should I read from Andy Weir,recommend_by_author
+Recommend something from Agatha Christie,recommend_by_author
+Suggest a short book by Khaled Hosseini,recommend_by_author
+What should I read from Amish,recommend_by_author
+Recommend me something recent by Ravinder Singh,recommend_by_author
+Suggest books by Arundhati Roy,recommend_by_author
+Whats good from Sudha Murty,recommend_by_author
+Recommend me a dark book by Kazuo Ishiguro,recommend_by_author
+Suggest a historical fiction by Amitav Ghosh,recommend_by_author
+I want to try Ruskin Bond,recommend_by_author
+Suggest a romance by Anuja Chauhan,recommend_by_author
+Recommend me a political novel by Arundhati Roy,recommend_by_author
+Recommend me a Chetan Bhagat novel,recommend_by_author
+Recommend a mystery by Arthur Conan Doyle,recommend_by_author
+Suggest a memoir by Michelle Obama,recommend_by_author
+Whats good by Jhumpa Lahiri,recommend_by_author
+Suggest something by R K Narayan,recommend_by_author
+What should I try from Devdutt Pattanaik,recommend_by_author
+Suggest a book by Chimamanda Ngozi Adichie,recommend_by_author
+Recommend me a dystopian novel by George Orwell,recommend_by_author
+Recommend me a literary fiction by Jhumpa Lahiri,recommend_by_author
+Suggest a book by K R Meera,recommend_by_author
+Books like Amish Tripathis,recommend_by_author
+Recommend authors similar to Tagore,recommend_by_author
+I need a recommendation from Colleen Hoover,recommend_by_author
+Recommend a beginner book by Salman Rushdie,recommend_by_author
+Suggest a philosophical book by J K Rowling,recommend_by_author
+Whats the best starting point for George R R Martin,recommend_by_author
+Whats a good book by Novoneel Chakraborty,recommend_by_author
+Suggest a modern romance by Durjoy Datta,recommend_by_author
+What would you suggest from Ashwin Sanghi,recommend_by_author
+Recommend something inspiring by Malala Yousafzai,recommend_by_author
+Whats the most popular book by Colleen Hoover,recommend_by_author
+Whats a good starting point for Charles Dickens,recommend_by_author
+Whats a must read from William Dalrymple,recommend_by_author
+Whats the best book by Margaret Atwood,recommend_by_author
+Whats a good introduction to Vikram Seth,recommend_by_author
+Whats a good non fiction by Shashi Tharoor,recommend_by_author
+Recommend me a detective story by Agatha Christie,recommend_by_author
+Whats a good short story collection by Ruskin Bond,recommend_by_author
+Recommend me something by Anita Nair,recommend_by_author
+Suggest a fantasy book,recommend_by_genre
+Find me a detective story,recommend_by_genre
+Find me a cozy mystery,recommend_by_genre
+I want something magical,recommend_by_genre
+Best contemporary romance books?,recommend_by_genre
+Recommend a romantic comedy book,recommend_by_genre
+Recommend a psychological thriller,recommend_by_genre
+Suggest an action-packed fantasy,recommend_by_genre
+I need a beach read romance,recommend_by_genre
+I want to read a mystery novel,recommend_by_genre
+Find me a good sci-fi book,recommend_by_genre
+Suggest an epic fantasy series,recommend_by_genre
+Romance book recommendations please,recommend_by_genre
+Best thriller novels?,recommend_by_genre
+I'm in the mood for historical fiction,recommend_by_genre
+Suggest a funny book,recommend_by_genre
+I want a fairy tale book,recommend_by_genre
+Recommend some horror books,recommend_by_genre
+I want a scary book,recommend_by_genre
+Any good adventure books?,recommend_by_genre
+Looking for a comedy novel,recommend_by_genre
+Young adult fantasy suggestions,recommend_by_genre
+Give me a love story,recommend_by_genre
+Non-fiction book recommendations,recommend_by_genre
+genre,recommend_by_genre
+Suggest a peaceful story,recommend_by_mood
+Give me a suspenseful read,recommend_by_mood
+Recommend something thought-provoking,recommend_by_mood
+Give me a book full of hope,recommend_by_mood
+I want a book that makes me laugh,recommend_by_mood
+"I feel nostalgic, recommend a book",recommend_by_mood
+I want a dark and moody book,recommend_by_mood
+Suggest a heartwarming novel,recommend_by_mood
+I'm in the mood for something intense,recommend_by_mood
+Suggest a book that makes you cry,recommend_by_mood
+Find me something comforting,recommend_by_mood
+Find me a motivating book,recommend_by_mood
+Give me a feel-good book,recommend_by_mood
+Recommend a light-hearted book,recommend_by_mood
+I need a book that cheers me up,recommend_by_mood
+I need an inspiring story,recommend_by_mood
+Find me something emotional,recommend_by_mood
+I want a relaxing read,recommend_by_mood
+"I'm feeling adventurous, recommend a book",recommend_by_mood
+Give me something uplifting,recommend_by_mood
+I'm in the mood for something dramatic,recommend_by_mood
+Suggest a sad story,recommend_by_mood
+I want a cozy and warm book,recommend_by_mood
+I want a happy book,recommend_by_mood
+Simple reads please,Recommend_by_readinglevel
+Recommend beginner-level books,Recommend_by_readinglevel
+I want easy books,Recommend_by_readinglevel
+Light books,Recommend_by_readinglevel
+Children's books,Recommend_by_readinglevel
+Casual reads,Recommend_by_readinglevel
+Research-level material,Recommend_by_readinglevel
+Young adult novels,Recommend_by_readinglevel
+Books for kids,Recommend_by_readinglevel
+Scholarly books,Recommend_by_readinglevel
+Recommend advanced books,Recommend_by_readinglevel
+I want a challenge,Recommend_by_readinglevel
+Books for medium readers,Recommend_by_readinglevel
+Something not too easy or hard,Recommend_by_readinglevel
+Intermediate level books,Recommend_by_readinglevel
+Books for new readers,Recommend_by_readinglevel
+I'm just starting out,Recommend_by_readinglevel
+Academic texts,Recommend_by_readinglevel
+Books for teens,Recommend_by_readinglevel
+YA recommendations,Recommend_by_readinglevel
+Books for a 10-year-old,Recommend_by_readinglevel
+Surprise me with a book!,Surprise_me
+Recommend something random,Surprise_me
+I'm feeling adventurous—pick anything,Surprise_me
+Choose a book for me,Surprise_me
+What should I read next?,Surprise_me
+Give me a book I'd never pick myself,Surprise_me
+Hit me with a wild recommendation,Surprise_me
+Suggest a hidden gem,Surprise_me

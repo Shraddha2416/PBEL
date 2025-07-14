@@ -1,0 +1,384 @@
+author,Agatha Christie,"Christie, Agatha Mary Clarissa Christie"
+author,Stephen King,"King, Steve King"
+author,J.K. Rowling,"Rowling, Joanne Rowling, Jo Rowling"
+author,Rabindranath Tagore,"Tagore, Gurudev"
+author,Arundhati Roy,"Roy, Suzanna Arundhati Roy"
+author,Salman Rushdie,"Rushdie, Ahmed Salman Rushdie"
+author,Jhumpa Lahiri,"Lahiri, Nilanjana Sudeshna"
+author,George R.R. Martin,"GRRM, Martin"
+author,Amish Tripathi,"Amish, Tripathi"
+author,Chetan Bhagat,Bhagat
+author,R.K. Narayan,"Narayan, Rasipuram Krishnaswami Narayan"
+author,Vikram Seth,Seth
+author,Anita Desai,Desai
+author,Ruskin Bond,Bond
+author,Shashi Tharoor,Tharoor
+author,Ashwin Sanghi,"Sanghi, Shawn Haigins"
+author,Preeti Shenoy,Shenoy
+author,Twinkle Khanna,"Khanna, Mrs Funnybones"
+author,Sudha Murty,"Murty, Sudha Murthy"
+author,J.R.R. Tolkien,"Tolkien, John Ronald Reuel Tolkien"
+author,Ernest Hemingway,"Hemingway, Papa Hemingway"
+author,Jane Austen,Austen
+author,Charles Dickens,"Dickens, Charles John Huffam Dickens"
+author,Margaret Atwood,Atwood
+author,Neil Gaiman,Gaiman
+author,Brandon Sanderson,Sanderson
+author,Haruki Murakami,Murakami
+author,Colleen Hoover,"Hoover, CoHo"
+author,James Patterson,Patterson
+author,Dan Brown,Brown
+author,Gillian Flynn,Flynn
+author,Paulo Coelho,Coelho
+author,John Grisham,Grisham
+author,Nicholas Sparks,Sparks
+author,George Orwell,"Orwell, Eric Arthur Blair"
+author,Arthur Conan Doyle,"Conan Doyle, Sir Arthur Conan Doyle"
+author,Frank Herbert,Herbert
+author,Isaac Asimov,Asimov
+author,Toni Morrison,Morrison
+author,Chimamanda Ngozi Adichie,Adichie
+author,Khaled Hosseini,Hosseini
+author,Donna Tartt,Tartt
+author,Kazuo Ishiguro,Ishiguro
+author,Malala Yousafzai,Yousafzai
+author,Michelle Obama,Obama
+author,Andy Weir,Weir
+author,Blake Crouch,Crouch
+author,Patrick Rothfuss,Rothfuss
+author,V.E. Schwab,"Schwab, Victoria Schwab"
+author,Anuja Chauhan,Chauhan
+author,Devdutt Pattanaik,Pattanaik
+author,Durjoy Datta,Datta
+author,Anand Neelakantan,Neelakantan
+author,Perumal Murugan,Murugan
+author,K.R. Meera,Meera
+author,Manu Joseph,Joseph
+author,Jerry Pinto,Pinto
+author,Shobhaa De,"De, Shobha Rajadhyaksha"
+author,Khushwant Singh,Singh
+author,Amrita Pritam,Pritam
+author,Vikram Chandra,Chandra
+author,Anand Ranganathan,Ranganathan
+author,William Dalrymple,Dalrymple
+author,V.S. Naipaul,"Naipaul, Vidiadhar Surajprasad Naipaul"
+author,Rohinton Mistry,Mistry
+author,Anita Nair,Nair
+author,Jeet Thayil,Thayil
+author,Madhuri Vijay,Vijay
+author,Sanjeev Sanyal,Sanyal
+author,Gurcharan Das,Das
+author,Savi Sharma,Sharma
+author,Novoneel Chakraborty,Chakraborty
+author,Sudeep Nagarkar,Nagarkar
+author,Ravinder Singh,Singh
+author_request,Books by Stephen King,"author, writer, works, bibliography, King"
+author_request,Books by Amish Tripathis,"similar, comparable, same style, Tripathi",Books by Amish Tripathis,Amish Tripathis
+author_request,Whats the most popular book by Colleen Hoover,"bestselling, top, Hoover, romance"
+author_request,Whats the best starting point for George R R Martin,"intro, beginner, Martin, Game of Thrones"
+author_request,Whats the best book by Margaret Atwood,"top, finest, Atwood, Handmaid's Tale"
+author_request,Whats popular by James Patterson,"trending, bestselling, Patterson, thriller"
+author_request,Whats good from Sudha Murty,"quality, best, Murty, Indian"
+author_request,Whats good by Jhumpa Lahiri,"quality, best, Lahiri, diaspora"
+author_request,Whats a must read from William Dalrymple,"essential, Dalrymple, history, Indian"
+author_request,Whats a must read from George Orwell,"essential, classic, Orwell, dystopia"
+author_request,Whats a lesser known book by Anita Desai,"obscure, hidden gem, Desai, Indian"
+author_request,Whats a good starting point for Charles Dickens,"intro, beginner, Dickens, classic"
+author_request,Whats a good short story collection by Ruskin Bond,"format, stories, Bond, Indian"
+author_request,Whats a good novel by Madhuri Vijay,"quality, best, Vijay, Indian"
+author_request,Whats a good non fiction by Shashi Tharoor,"genre, factual, Tharoor, Indian"
+author_request,Whats a good introduction to Vikram Seth,"starter, beginner, Seth, Indian"
+author_request,Whats a good collection by Khushwant Singh,"format, stories, Singh, Indian"
+author_request,Whats a good book by Novoneel Chakraborty,"quality, best, Chakraborty, Indian"
+author_request,What would you suggest from Ashwin Sanghi,"author, Sanghi, Indian, thriller"
+author_request,What would you pick from Brandon Sanderson,"author, Sanderson, fantasy, epic"
+author_request,What should I try from Shobhaa De,"author, De, Indian, contemporary"
+author_request,What should I try from Devdutt Pattanaik,"author, Pattanaik, mythology, Indian"
+author_request,What should I read next from Patrick Rothfuss,"author, Rothfuss, fantasy, Kingkiller"
+author_request,What should I read from Perumal Murugan,"author, Murugan, Tamil, Indian"
+author_request,What should I read from Neil Gaiman,"author, Gaiman, fantasy, Sandman"
+author_request,What should I read from Andy Weir,"author, Weir, sci-fi, Martian"
+author_request,What should I read from Amish,"author, Amish, Indian, mythology"
+author_request,Suggest something by Toni Morrison,"author, Morrison, Nobel, African-American"
+author_request,Suggest something by R K Narayan,"author, Narayan, Indian, Malgudi"
+author_request,Suggest me a Dan Brown,"author, Brown, thriller, mystery"
+author_request,Suggest books by Arundhati Roy,"author, Roy, Indian, activist"
+author_request,Suggest a short book by Khaled Hosseini,"length, brief, Hosseini, Afghan"
+author_request,Suggest a science fiction novel by Isaac Asimov,"genre, sci-fi, Asimov, classic"
+author_request,Suggest a romance by Anuja Chauhan,"genre, love, Chauhan, Indian"
+author_request,Suggest a powerful book by Rohinton Mistry,"mood, impactful, Mistry, Indian"
+author_request,Suggest a poetry collection by Rabindranath Tagore,"format, poems, Tagore, Nobel"
+author_request,Suggest a philosophical book by J K Rowling,"genre, deep, Rowling, Harry Potter"
+author_request,Suggest a novel by Savi Sharma,"author, Sharma, Indian, inspirational"
+author_request,Suggest a mythology book by Amish Tripathi,"genre, mythological, Tripathi, Indian"
+author_request,Suggest a modern romance by Durjoy Datta,"genre, love, Datta, Indian"
+author_request,Suggest a modern classic by V S Naipaul,"era, contemporary, Naipaul, Nobel"
+author_request,Suggest a memoir by Michelle Obama,"genre, autobiography, Obama, FLOTUS"
+author_request,Suggest a light read by Preeti Shenoy,"mood, easy, Shenoy, Indian"
+author_request,Suggest a historical fiction by Amitav Ghosh,"genre, historical, Ghosh, Indian"
+author_request,Suggest a fantasy novel by V E Schwab,"genre, Schwab, magical, adventure"
+author_request,Suggest a family saga by Vikram Chandra,"genre, multi-generational, Chandra, Indian"
+author_request,Suggest a book by K R Meera,"author, Meera, Malayalam, Indian"
+author_request,Suggest a book by Jerry Pinto,"author, Pinto, Indian, contemporary"
+author_request,Suggest a book by Gurcharan Das,"author, Das, Indian, non-fiction"
+author_request,Suggest a book by Chimamanda Ngozi Adichie,"author, Adichie, Nigerian, feminist"
+author_request,Recommend something inspiring by Malala Yousafzai,"mood, motivational, Yousafzai, memoir"
+author_request,Recommend something from Agatha Christie,"author, Christie, mystery, classic"
+author_request,Recommend me something recent by Ravinder Singh,"time, latest, Singh, Indian"
+author_request,Recommend me something by Anita Nair,"author, Nair, Indian, contemporary"
+author_request,Recommend me a thriller by Gillian Flynn,"genre, suspense, Flynn, Gone Girl"
+author_request,Recommend me a thought provoking book by Aravind Adiga,"mood, intellectual, Adiga, Booker"
+author_request,Recommend me a short story collection by Ruskin Bond,"format, stories, Bond, Indian"
+author_request,Recommend me a science book by Sanjeev Sanyal,"genre, non-fiction, Sanyal, Indian"
+author_request,Recommend me a psychological thriller by Blake Crouch,"genre, suspense, Crouch, mind-bending"
+author_request,Recommend me a political novel by Arundhati Roy,"genre, activism, Roy, Indian"
+author_request,Recommend me a literary fiction by Jhumpa Lahiri,"genre, Lahiri, Pulitzer, diaspora"
+author_request,Recommend me a funny book by Twinkle Khanna,"mood, humorous, Khanna, Indian"
+author_request,Recommend me a dystopian novel by George Orwell,"genre, futuristic, Orwell, classic"
+author_request,Recommend me a detective story by Agatha Christie,"genre, mystery, Christie, Poirot"
+author_request,Recommend me a dark book by Kazuo Ishiguro,"mood, bleak, Ishiguro, Nobel"
+author_request,Recommend me a contemporary book by Manu Joseph,"modern, current, Joseph, Indian"
+author_request,Recommend me a coming of age novel by R K Narayan,"genre, bildungsroman, Narayan, Indian"
+author_request,Recommend me a classic by Jane Austen,"author, classic, Austen, Regency"
+author_request,Recommend me a Chetan Bhagat novel,"author, Bhagat, popular, Indian"
+author_request,Recommend me a book by Sudeep Nagarkar,"author, Nagarkar, contemporary"
+author_request,Recommend me a book by Jeet Thayil,"author, suggest, Thayil, Indian"
+author_request,Recommend authors similar to Tagore,"comparable, like, Rabindranath, Nobel"
+author_request,Recommend a mystery by Arthur Conan Doyle,"genre, detective, Sherlock, Doyle"
+author_request,Recommend a good Haruki Murakami,"quality, best, Murakami, Japanese"
+author_request,Recommend a beginner book by Salman Rushdie,"introductory, starter, first, Rushdie"
+author_request,I want to try Ruskin Bond,"author, explore, discover, Bond"
+author_request,I need a recommendation from Colleen Hoover,"author, writer, suggest, Hoover"
+author_request,Books similar to Paulo Coelho,"like, comparable, same vibe, Coelho"
+book_request,Help me pick a book,"choose, select, decide, recommend"
+book_request,What's a good book to read?,"recommend, suggest, quality, great"
+book_request,What would you recommend reading?,"suggest, advise, best, must-read"
+book_request,What should I read next?,"recommend, suggest, next, follow-up"
+book_request,What books do you suggest?,"recommend, advise, list, titles"
+book_request,What book do you recommend?,"suggest, advise, best, top"
+book_request,What are you reading these days?,"current, trending, popular, now"
+book_request,Suggest me a novel,"recommend, fiction, story, title"
+book_request,Suggest a great book,"recommend, best, amazing, wonderful"
+book_request,Recommend something interesting,"suggest, recommend, engaging, captivating"
+book_request,Looking for my next read,"find, recommend, suggest, next book"
+book_request,I'm open to any book suggestions,"recommend, suggest, all genres, anything"
+book_request,I'm looking for something to read,"search, find, recommend, suggest"
+book_request,"I'm bored, suggest a book","recommend, entertain, engage, distract"
+book_request,I want to read something new,"suggest, recommend, different, fresh"
+book_request,I need reading suggestions,"recommend, advise, books, titles"
+book_request,I need a new book to read,"suggest, recommend, fresh, latest"
+book_request,I need a book idea,"suggest, recommend, inspiration, title"
+book_request,Hit me with a book suggestion,"give, recommend, surprise, random"
+book_request,Give me a reading recommendation,"suggest, recommend, book, title"
+book_request,Give me a book recommendation,"provide, offer, suggest, reading"
+book_request,Find me a book,"search, locate, discover, title"
+book_request,Can you suggest a good book?,"recommend, best, popular, great"
+book_request,Can you recommend a novel?,"suggest, fiction, story, title"
+book_request,Any book recommendations?,"suggest, recommend, find, give, novel, reading"
+book_title,The Raavan Enemy of Aryavarta,mythology,epic,Amish Tripathi,intermediate,high
+book_title,Rusty Runs Away,children's,adventurous,Ruskin Bond,beginner,high
+book_title,The India I Love,non-fiction,nostalgic,Ruskin Bond,intermediate,medium
+book_title,The Elephant,the Tiger,and the Cell Phone,non-fiction,thought-provoking,Shashi Tharoor,advanced,medium
+book_title,Inglorious Empire,non-fiction,controversial,Shashi Tharoor,advanced,high
+book_title,The Hindu Way,non-fiction,spiritual,Shashi Tharoor,intermediate,medium
+book_title,The Paradoxical Prime Minister,non-fiction,political,Shashi Tharoor,advanced,high
+book_title,Battle for Bittora,romance,humorous,Anuja Chauhan,beginner,high
+book_title,Those Pricey Thakur Girls,romance,humorous,Anuja Chauhan,beginner,high
+book_title,The House That BJ Built,romance,humorous,Anuja Chauhan,beginner,high
+book_title,Keepers of the Kalachakra,thriller,mysterious,Ashwin Sanghi,intermediate,high
+book_title,The Vault of Vishnu,thriller,mysterious,Ashwin Sanghi,intermediate,high
+book_title,Life Is What You Make It,coming-of-age,emotional,Preeti Shenoy,beginner,high
+book_title,The Girl of My Dreams,romance,emotional,Durjoy Datta,beginner,high
+book_title,2 States,romance,humorous,Chetan Bhagat,beginner,high
+book_title,Revolution 2020,coming-of-age,dramatic,Chetan Bhagat,beginner,high
+book_title,Half Girlfriend,romance,emotional,Chetan Bhagat,beginner,high
+book_title,One Indian Girl,coming-of-age,thought-provoking,Chetan Bhagat,beginner,high
+book_title,400 Days,thriller,suspense,Chetan Bhagat,beginner,high
+book_title,The Hobbit,fantasy,adventure,J.R.R. Tolkien,intermediate,high
+book_title,Baaz,military,patriotic,Anuja Chauhan,intermediate,medium
+book_title,The Shining,horror,dark,Stephen King,advanced,high
+book_title,The God of Small Things,literary,emotional,Arundhati Roy,advanced,high
+book_title,The Palace of Illusions,mythology,epic,Chitra Banerjee Divakaruni,intermediate,medium
+book_title,The Immortals of Meluha,mythology,adventure,Amish Tripathi,beginner,high
+book_title,The White Tiger,satirical,dark,Aravind Adiga,intermediate,high
+book_title,The Namesake,literary,emotional,Jhumpa Lahiri,intermediate,high
+book_title,The Guide,literary,thought-provoking,R.K. Narayan,intermediate,medium
+book_title,The Girl Who Knew Too Much,thriller,suspense,Novoneel Chakraborty,intermediate,medium
+book_title,The Girl in Room 105,thriller,mysterious,Chetan Bhagat,beginner,high
+book_title,The 3 Mistakes of My Life,coming-of-age,emotional,Chetan Bhagat,beginner,high
+book_title,The Secret of the Nagas,mythology,adventure,Amish Tripathi,intermediate,high
+book_title,The Scion of Ikshvaku,mythology,epic,Amish Tripathi,intermediate,high
+book_title,The Sita Warrior of Mithila,mythology,epic,Amish Tripathi,intermediate,high
+book_title,The Forest of Enchantments,mythology,emotional,Chitra Banerjee Divakaruni,intermediate,medium
+book_title,The Mistress of Spices,magical realism,atmospheric,Chitra Banerjee Divakaruni,intermediate,medium
+book_title,The Vine of Desire,literary,emotional,Chitra Banerjee Divakaruni,advanced,medium
+book_title,The Queen of Dreams,literary,mysterious,Chitra Banerjee Divakaruni,intermediate,medium
+book_title,The Ministry of Utmost Happiness,literary,political,Arundhati Roy,advanced,high
+book_title,The Algebra of Infinite Justice,non-fiction,thought-provoking,Arundhati Roy,advanced,high
+book_title,The End of Imagination,non-fiction,controversial,Arundhati Roy,advanced,high
+book_title,The Shape of the Beast,non-fiction,political,Arundhati Roy,advanced,high
+book_title,Interpreter of Maladies,short stories,emotional,Jhumpa Lahiri,intermediate,high
+book_title,Unaccustomed Earth,short stories,emotional,Jhumpa Lahiri,intermediate,high
+book_title,The Lowland,literary,emotional,Jhumpa Lahiri,advanced,high
+book_title,In Other Words,memoir,reflective,Jhumpa Lahiri,advanced,medium
+book_title,Last Man in Tower,literary,dark,Aravind Adiga,intermediate,medium
+book_title,Selection Day,literary,sports-themed,Aravind Adiga,intermediate,medium
+book_title,Amnesty,literary,political,Aravind Adiga,intermediate,medium
+book_title,Between the Assassinations,short stories,social,Aravind Adiga,intermediate,medium
+book_title,The Blue Umbrella,children's,whimsical,Ruskin Bond,beginner,high
+book_title,The Night Train at Deoli,short stories,nostalgic,Ruskin Bond,beginner,high
+book_title,The Inheritance of Loss,literary,melancholic,Kiran Desai,advanced,medium
+book_title,The Hungry Tide,literary,atmospheric,Amitav Ghosh,advanced,medium
+book_title,The Room on the Roof,coming-of-age,light-hearted,Ruskin Bond,beginner,high
+book_title,The Alchemist,inspirational,spiritual,Paulo Coelho,beginner,high
+book_title,The Discovery of India,non-fiction,educational,Jawaharlal Nehru,advanced,medium
+book_title,The Satanic Verses,literary,controversial,Salman Rushdie,advanced,high
+book_title,The Glass Palace,historical,epic,Amitav Ghosh,intermediate,medium
+book_title,The Shadow Lines,literary,nostalgic,Amitav Ghosh,advanced,medium
+book_title,The Great Indian Novel,satirical,humorous,Shashi Tharoor,advanced,high
+book_title,The Zoya Factor,romance,light-hearted,Anuja Chauhan,beginner,high
+book_title,The Sialkot Saga,historical,adventure,Ashwin Sanghi,intermediate,medium
+book_title,The Oath of the Vayuputras,mythology,epic,Amish Tripathi,intermediate,high
+book_title,The Krishna Key,thriller,mysterious,Ashwin Sanghi,intermediate,high
+book_title,The Rozabal Line,thriller,controversial,Ashwin Sanghi,advanced,medium
+book_title,The Secret Wish List,romance,emotional,Preeti Shenoy,beginner,high
+book_title,The Perfect Us,romance,light-hearted,Durjoy Datta,beginner,high
+genre,travel,"wanderlust, adventure travel, nomad"
+genre,art,"artist novels, creative process"
+genre,music,"rockstar novels, musical fiction"
+genre,sports,"baseball fiction, football stories"
+genre,legal,"courtroom drama, lawyer novels"
+genre,medical,"hospital drama, doctor stories"
+genre,academic,"campus novels, school stories"
+genre,espionage,"spy thriller, CIA, MI6"
+genre,political,"Washington thriller, election drama"
+genre,religious,"spiritual, christian fiction"
+genre,lgbtq,"queer fiction, gay romance, lesbian"
+genre,afrofuturism,"black future, african sci-fi"
+genre,cozy,"gentle reads, low violence mystery"
+genre,fantasy,"epic fantasy, high fantasy, magical","sword and sorcery, elves, dragons"
+genre,humorous,"light-hearted, witty, comic"
+genre,epic,"saga, long narrative, multigenerational"
+genre,short stories,"anthology, story collection"
+genre,graphic novel,"comics, illustrated novel"
+genre,new adult,"NA, post-teen, early 20s"
+genre,family saga,"generational story, dynasty"
+genre,alternate history,"what if, historical divergence"
+genre,time travel,"time loop, historical displacement"
+genre,fairy tale,"folklore, retellings, mythic"
+genre,noir,"hardboiled, detective noir, film noir"
+genre,erotica,"adult romance, explicit, BDSM"
+genre,cooking,"culinary fiction, foodie novels"
+genre,horror,"scary, supernatural, gothic, paranormal, ghost story, creepy"
+genre,romance,"love story, romantic comedy, chick lit, contemporary romance"
+genre,mystery,"whodunit, crime novel, detective story, cozy mystery, thriller"
+genre,thriller,"suspense, psychological thriller, crime thriller, action"
+genre,historical fiction,"historical novel, period piece, alternate history"
+genre,young adult,"YA, teen fiction, coming of age"
+genre,biography,"memoir, autobiography, life story, true story"
+genre,self-help,"personal development, motivation, how-to"
+genre,literary fiction,"contemporary fiction, award-winning novels"
+genre,adventure,"action-adventure, survival, quest, exploration"
+genre,dystopian,"apocalyptic, post-apocalyptic, bleak future"
+genre,urban fantasy,"modern fantasy, supernatural in cities"
+genre,paranormal romance,"vampire romance, werewolf love story"
+genre,comedy,"humor, funny, satire, parody"
+genre,classic,"literature, 19th century, timeless novels"
+genre,western,"cowboy, frontier, wild west"
+genre,crime,"gangster, mafia, true crime, heist"
+genre,war,"military fiction, WW2, Vietnam war"
+genre,steampunk,"victorian technology, gearpunk"
+genre,cyberpunk,"high tech low life, neon noir"
+genre,superhero,"comic book, capes, marvel-like"
+genre,space exploration,"first contact, alien worlds"
+genre,science fiction,"sci-fi, sf, space opera, cyberpunk, dystopian, futuristic"
+genre_request,Suggest a funny book,"comedy, humorous, hilarious, satire, witty",funny
+genre_request,Looking for a comedy novel,"comedy, funny, humorous, witty, laugh-out-loud"
+genre_request,Non-fiction book recommendations,"non-fiction, factual, real, biography, memoir"
+genre_request,Recommend a psychological thriller,"psychological, mind games, twisted, dark, suspense"
+genre_request,Recommend a romantic comedy book,"rom-com, funny romance, lighthearted, charming"
+genre_request,Any good adventure books?,"adventure, action, quest, exploration, exciting"
+genre_request,Best contemporary romance books?,"romance, love story, modern, chick lit, relationship"
+genre_request,Best thriller novels?,"thriller, suspense, crime, mystery, page-turner"
+genre_request,Find me a cozy mystery,"cozy, gentle, amateur sleuth, light mystery"
+genre_request,Find me a detective story,"detective, crime, investigator, whodunit, mystery"
+genre_request,Find me a good sci-fi book,"sci-fi, science fiction, futuristic, space, tech"
+genre_request,Suggest an epic fantasy series,"epic, saga, long series, heroic, grand scale"
+genre_request,Young adult fantasy suggestions,"YA, teen, coming-of-age, magical, adventure"
+genre_request,I need a beach read romance,"beach read, light, summer, vacation, romance"
+genre_request,I'm in the mood for historical fiction,"historical fiction, period piece, past era, vintage"
+genre_request,I want to read a mystery novel,"mystery, detective, puzzle, crime, suspense"
+genre_request,I want something magical,"magic, fantasy, enchanted, whimsical, spellbinding"
+genre_request,I want a scary book,"horror, scary, creepy, terrifying, spooky"
+genre_request,I want a fairy tale book,"fairy tale, folklore, myth, retelling, magical"
+genre_request,Recommend some horror books,"horror, terrifying, gothic, supernatural, creepy"
+genre_request,Give me a love story,"romance, love, relationship, heartfelt, emotional"
+genre_request,Romance book recommendations please,"romance, love story, relationship, heartfelt"
+genre_request,Suggest a fantasy book,"fantasy, magical, epic, sword and sorcery, quest"
+genre_request,Suggest an action-packed fantasy,"action, adventure, fast-paced, thrilling, epic"
+mood,sad,"Heartbroken, sorrowful, mournful, melancholy","gloomy, despondent, woeful, forlorn, wretched","miserable, downcast, despairing","anguished, heavy-hearted, blue"
+mood,emotional,"heartfelt, poignant, tearjerker, moving, bittersweet, cathartic"
+mood,funny,"humorous, comedic, hilarious, witty, laugh-out-loud, satirical"
+mood,thought-provoking,"philosophical, deep, intellectual, challenging, mind-bending"
+mood,relaxing,"calm, soothing, peaceful, gentle, easygoing, mellow"
+mood,romantic,"steamy, swoon-worthy, passionate, lovey-dovey, heartfelt"
+mood,mysterious,"enigmatic, puzzling, cryptic, suspenseful, secretive"
+mood,nostalgic,"sentimental, reminiscent, throwback, vintage, old-fashioned"
+mood,whimsical,"quirky, playful, fanciful, magical, fairy-tale-like"
+mood,intense,"high-stakes, dramatic, powerful, visceral, consuming"
+mood,hopeful,"optimistic, encouraging, promising, reassuring"
+mood,lonely,"isolated, melancholy, solitary, desolate"
+mood,cozy,"comforting, warm, snug, homey, hygge"
+mood,adventurous,"daring, bold, exploratory, risk-taking"
+mood,rebellious,"anti-establishment, revolutionary, defiant"
+mood,sophisticated,"elegant, refined, cultured, literary"
+mood,sexy,"sensual, erotic, provocative, racy"
+mood,heroic,"epic, valiant, courageous, legendary"
+mood,surreal,"dreamlike, bizarre, trippy, psychedelic"
+mood,atmospheric,"moody, evocative, immersive, vivid"
+mood,educational,"informative, enlightening, instructional"
+mood,dark,"gritty, bleak, depressing, grim","disturbing, twisted, morbid, macabre"
+mood,exciting,"thrilling, action-packed","adrenaline-fueled, fast-paced, gripping"
+mood,inspiring,"motivational, empowering, uplifting","life-changing, transformative"
+mood,light-hearted,"happy, uplifting, feel-good, cheerful","positive, joyful, upbeat, wholesome, fluffy"
+mood,happy,"joyful, cheerful, delighted, blissful, radiant","sunny, buoyant, jubilant, gleeful"
+mood,tragic,"heartbreaking, devastating, sorrowful",sad
+mood_request,I want a happy book,"happy, joyful, cheerful, lighthearted"
+mood_request,I want a dark and moody book,"dark, moody, bleak, atmospheric"
+mood_request,I want a cozy and warm book,"cozy, warm, comforting, hygge"
+mood_request,I want a book that makes me laugh,"funny, humorous, comedic, hilarious"
+mood_request,Find me a motivating book,"motivational, inspiring, uplifting, empowering"
+mood_request,Find me something comforting,"comforting, soothing, warm, reassuring"
+mood_request,Find me something emotional,"emotional, heartfelt, poignant, tearjerker"
+mood_request,Give me a book full of hope,"hopeful, optimistic, uplifting, inspiring"
+mood_request,Give me a feel-good book,"feel-good, happy, joyful, uplifting"
+mood_request,Give me a suspenseful read,"suspenseful, thrilling, gripping, intense"
+mood_request,Give me something uplifting,"uplifting, inspiring, hopeful, encouraging"
+mood_request,"I feel nostalgic, recommend a book","nostalgic, sentimental, reminiscent, throwback"
+mood_request,I need a book that cheers me up,"cheerful, happy, lighthearted, joyful"
+mood_request,I need an inspiring story,"inspiring, motivational, uplifting, empowering"
+mood_request,Suggest a sad story,"sad, tragic, melancholy, depressing"
+mood_request,Suggest a peaceful story,"peaceful, tranquil, serene, calming"
+mood_request,Suggest a heartwarming novel,"heartwarming, touching, sweet, uplifting"
+mood_request,Suggest a book that makes you cry,"sad, tearjerker, heartbreaking, emotional"
+mood_request,Recommend something thought-provoking,"thought-provoking, profound, deep, philosophical"
+mood_request,Recommend a light-hearted book,"light-hearted, fun, breezy, cheerful"
+mood_request,I'm in the mood for something intense,"intense, gripping, powerful, consuming"
+mood_request,I'm in the mood for something dramatic,"dramatic, intense, emotional, theatrical"
+mood_request,"I'm feeling adventurous, recommend a book","adventurous, daring, bold, exciting"
+mood_request,I want a relaxing read,"relaxing, calming, peaceful, mellow"
+reading_level,casual,light reads,"beach books, fluffy, entertainment",no heavy stuff,"easy-breezy, vacation reads",suggest a beach read,"light book, vacation novel",recommend something fluffy,"entertaining read, no heavy stuff"
+reading_level,visual,recommend a graphic novel,"illustrated book, image-heavy","graphic novel, illustrated",Image-heavy books
+reading_level,esl_intermediate,recommend an intermediate English book,"EFL practice, B1/B2 level",EFL intermediate,Intermediate English proficiency
+reading_level,esl_beginner,suggest a book for English learners,"EFL starter, basic English",For English language learners
+reading_level,academic,suggest a textbook,"university material, research book",recommend scholarly reads,"graduate-level, thesis material","scholarly, research, textbook",University-level material
+reading_level,young_adult,YA books,"teen, adolescent, high school",books for teens,"coming-of-age, 13-18",suggest a YA book,"teen novel, high school read",recommend something for teens,"adolescent fiction, coming-of-age","YA, teen",Ages 13-18
+reading_level,children,books for kids,"children's, juvenile, elementary",for a 10-year-old,"middle grade, tween",suggest a book for a 10-year-old,"kids book, middle grade novel",recommend a children's book,"juvenile fiction, ages 6-12","kids, juvenile, young readers",Ages 6-12
+reading_level,advanced,challenging reads,"hard, complex, expert, literary",research-level books,"grad school, scholarly, academic",recommend a challenging book,"complex read, expert-level, literary",I want a book to test me,"grad school level, scholarly text","hard, challenging, level 3, complex",For experienced readers (college level+)
+reading_level,intermediate,medium difficulty books,"moderate, stepping stone, bridge books",not too easy or hard,"goldilocks level, just right",suggest a book for casual readers,"medium book, stepping stone novel",I want something not too hard,"goldilocks book, just right level","moderate, level 2, standard, regular",Ideal for casual readers (9th-12th grade level)
+reading_level,beginner,easy books,"simple, starter, newbie, introductory, basic",I'm just starting out,"first books, entry-level, for dummies",suggest a book to start reading,"first book, beginner book, easy read",I'm new to reading,"starter book, introductory novel, for dummies",recommend an easy book,"simple read, basic book, level 1","easy, starter, level 1, basic, introductory"
+reading_level,large_print,suggest a large print book,"big text book, for visually impaired",big text,For visually impaired readers
+Recommendations,reading level
+Recommendations,mood
+Recommendations,author
+Recommendations,genre
